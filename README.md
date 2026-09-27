@@ -1,4 +1,4 @@
-# PROYECTO-GESTION-MEDICO
+# PROYECTO-GESTION-CLINICA-MEDICA
 Proyecto desarrollado en Python para la gestión de una clínica médica mediante consola.
 
 -Funcionalidades
